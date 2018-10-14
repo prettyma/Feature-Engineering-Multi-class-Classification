@@ -1,18 +1,5 @@
 # REPORT
 
-Pretty Mary Philip 5024 7311   
-Tejaswini Reddy Boda 5024 3913
-
-## PART 1
-### Titanic Ouput:
-RandomForest: 0.8502677205507396  
-LogisticRegression: 0.8296149923508417  
-DecistionTree: 0.5850012748597654
-
-ScreenShot:
-![alt text](outputTitanic.png)
-
-## PART 2
 ### Environment Details:
 Following are the environment chosen for this Lab:
 1. Apache Spark run on Virtual Machine (provided for Lab2 - Hadoop)
